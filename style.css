@@ -1,0 +1,54 @@
+body{
+	background-color: #330055;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 1000'%3E%3Cg %3E%3Ccircle fill='%23330055' cx='50' cy='0' r='50'/%3E%3Cg fill='%23310153' %3E%3Ccircle cx='0' cy='50' r='50'/%3E%3Ccircle cx='100' cy='50' r='50'/%3E%3C/g%3E%3Ccircle fill='%232f0250' cx='50' cy='100' r='50'/%3E%3Cg fill='%232d024e' %3E%3Ccircle cx='0' cy='150' r='50'/%3E%3Ccircle cx='100' cy='150' r='50'/%3E%3C/g%3E%3Ccircle fill='%232b034b' cx='50' cy='200' r='50'/%3E%3Cg fill='%232a0449' %3E%3Ccircle cx='0' cy='250' r='50'/%3E%3Ccircle cx='100' cy='250' r='50'/%3E%3C/g%3E%3Ccircle fill='%23280547' cx='50' cy='300' r='50'/%3E%3Cg fill='%23260544' %3E%3Ccircle cx='0' cy='350' r='50'/%3E%3Ccircle cx='100' cy='350' r='50'/%3E%3C/g%3E%3Ccircle fill='%23240642' cx='50' cy='400' r='50'/%3E%3Cg fill='%2322073f' %3E%3Ccircle cx='0' cy='450' r='50'/%3E%3Ccircle cx='100' cy='450' r='50'/%3E%3C/g%3E%3Ccircle fill='%2320083d' cx='50' cy='500' r='50'/%3E%3Cg fill='%231e083b' %3E%3Ccircle cx='0' cy='550' r='50'/%3E%3Ccircle cx='100' cy='550' r='50'/%3E%3C/g%3E%3Ccircle fill='%231c0938' cx='50' cy='600' r='50'/%3E%3Cg fill='%231a0a36' %3E%3Ccircle cx='0' cy='650' r='50'/%3E%3Ccircle cx='100' cy='650' r='50'/%3E%3C/g%3E%3Ccircle fill='%23180b33' cx='50' cy='700' r='50'/%3E%3Cg fill='%23170b31' %3E%3Ccircle cx='0' cy='750' r='50'/%3E%3Ccircle cx='100' cy='750' r='50'/%3E%3C/g%3E%3Ccircle fill='%23150c2f' cx='50' cy='800' r='50'/%3E%3Cg fill='%23130d2c' %3E%3Ccircle cx='0' cy='850' r='50'/%3E%3Ccircle cx='100' cy='850' r='50'/%3E%3C/g%3E%3Ccircle fill='%23110e2a' cx='50' cy='900' r='50'/%3E%3Cg fill='%230f0e27' %3E%3Ccircle cx='0' cy='950' r='50'/%3E%3Ccircle cx='100' cy='950' r='50'/%3E%3C/g%3E%3Ccircle fill='%230D0F25' cx='50' cy='1000' r='50'/%3E%3C/g%3E%3C/svg%3E");
+	background-attachment: fixed;
+	background-size: contain;
+}
+
+.margin{
+	 margin-left: 200px !important;
+	 margin-right: 200px !important;
+	 height: 215vh;
+}
+
+#profile{
+	border-radius: 165px;
+	width: 340px;
+	height: 340px;
+}
+
+.m-2{
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+h1{
+	font-size: 60px !important;
+}
+
+.align{
+	justify-content: center;
+}
+
+.col{
+	display: flex;
+	flex-direction: column;
+	align-content: flex-start;
+}
+
+.icon{
+	display: flex;
+	align-content: flex-end !important;
+}
+
+.about{
+	font-size: 30px !important;
+}
+
+h3{
+	font-size: 20px !important;
+}
+
+h4{
+	font-size: 15px !important;
+}
